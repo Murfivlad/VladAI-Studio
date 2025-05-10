@@ -1,0 +1,7 @@
+🛠 Бесплатные инструменты для ИИ-студии VladAI:
+- ChatGPT: сценарии и идеи
+- TTSMaker / FreeTTS: озвучка
+- TokkingHeads: анимированные аватары
+- CapCut Web / Canva Video: видео-монтаж
+- Bing Image Creator / Leonardo AI: обложки
+- YouTube Studio / Zapier: постинг
